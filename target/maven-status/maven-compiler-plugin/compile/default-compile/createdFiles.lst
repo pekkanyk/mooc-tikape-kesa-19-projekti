@@ -1,0 +1,14 @@
+varausjarjestelma\Huone.class
+varausjarjestelma\HuoneVarausDao.class
+varausjarjestelma\VarausDao.class
+varausjarjestelma\LisavarusteDao.class
+varausjarjestelma\HakumoottoriDao.class
+varausjarjestelma\Varaus.class
+varausjarjestelma\Asiakas.class
+varausjarjestelma\VarausjarjestelmaSovellus.class
+varausjarjestelma\HuoneDao.class
+varausjarjestelma\Lisavaruste.class
+varausjarjestelma\HuoneVaraus.class
+varausjarjestelma\AsiakasDao.class
+varausjarjestelma\Dao.class
+varausjarjestelma\Tekstikayttoliittyma.class
